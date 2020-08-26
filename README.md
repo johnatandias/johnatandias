@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center">
+  <a href="mailto:johnatan.dias@gmail.com">
+    <img alt="Email"
+      src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:johnatan.dias@gmail.com">
+  </a>
 
-<!--
-**johnatandias/johnatandias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://www.linkedin.com/in/johnatandias/">
+    <img alt="LinkedIn"
+      src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://twitter.com/johnatandias">
+    <img alt="Twitter"
+      src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white">
+  </a>
+</p>
